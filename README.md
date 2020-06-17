@@ -1,5 +1,10 @@
 # WhatsAppAutomation
 
+Automating WhatsApp using selenium web driver. This is my first attempt to create an automated system. It will be developed gradually by adding a webscrapper to read text messages as wel. Currently the functionalities included are:
+1. Start a new chat
+2. Create a group
+3. Broadcast message to multiple people
+
 ## MENU
 ![image](https://user-images.githubusercontent.com/36270110/84863129-1444fa00-b092-11ea-9187-9b258fc8faee.png)
 
